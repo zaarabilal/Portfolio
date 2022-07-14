@@ -1,0 +1,165 @@
+/* STYLE SECTIONING TAGS */
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+
+ background-image: radial-gradient(  #84C0C6, #719294);
+}
+#bodyp{
+  background-image: radial-gradient(  #AEC5EB, #6C698D);
+}
+ 
+      
+header{
+  background-image: radial-gradient(  #156064, #213233);
+}
+#headerp{
+   background-image: radial-gradient( #3D315B, #290628);
+  
+}
+  
+
+main{
+  
+}
+
+h1 {  
+  text-shadow: 2px 2px black;
+  color: #F2E2D2 ;
+  font-family: "Roboto", sans-serif;
+  
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline overline;
+   text-decoration-style: double;
+  
+}
+ul{
+       list-style-type:none;
+   background-image: radial-gradient( #003046,  #011721 );
+  
+       overflow:hidden;
+       padding:1em;
+  text-align:center;
+     } 
+
+ 
+li{
+  display:inline;
+}
+li a{
+  text-decoration:none;
+  color:white;
+  font-size:1.3em;
+  padding:1em;
+  text-shadow:1px 1px black;
+  
+  
+}
+li a:hover {
+  background-image: radial-gradient( #C16E70, #5e3233);
+}
+a{
+  color:#C16E70;
+  text-decoration:none;
+}
+
+#imgh{
+  margin-left: 2%;
+}
+
+h2{
+  text-shadow: 1px 1px black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+  text-align:center;
+  color: #156064;
+  background-color:#BBB8B2;
+  background-image: radial-gradient( #EAF2EF, gray);
+  text-decoration: underline wavy #156064 3px;
+  font-family: "Impact", fantasy;
+}
+
+#h2p{
+  color:#290628;
+   text-decoration: underline wavy #290628 3px;
+}
+h3{
+font-family:"Times New Roman", serif;
+  font-size:1.3em;
+  color: #F2E2D2;
+  text-shadow: 1px 1px  #156064;
+ 
+  
+}
+#left{
+  padding-left:10%;
+  display:inline-flex;
+  margin-right:10%;
+  padding-top:5%;
+  padding-bottom:5%;
+  
+ 
+  
+}
+.work{
+  box-shadow: 5px 5px #3D315B;
+  display:inline-flex;
+  margin-right:10%;
+  margin-left:5%;
+  border: 5px double #F2E2D2;
+  padding:10px;
+ 
+}
+#workb{
+  margin-bottom:5%;
+}
+.imgp{
+  border-radius:5%;
+  
+}
+
+.h3p{
+  font-family: "Gill Sans", sans-serif;
+  margin-left:10%;
+  text-shadow:1px 1px #290628;
+}
+#h3p1{
+  padding-bottom:2%;
+  padding-top:4%;
+}
+#h3p2{
+  padding-top:6%;
+  padding-bottom:2%;
+}
+p{
+  font-family:"Georgia", serif;
+  color:#290628;
+  margin-left:2%;
+  margin-right:1%;
+  margin-bottom:2%;
+  
+  
+}
+.centerp{
+  text-align:center;
+  font-family: "Georgia", serif;
+   text-shadow:1px 1px black;
+  text-decoration: underline;
+  
+
+}
+#gwc{
+  margin-top:6%;
+  margin-bottom:4%
+}
+#w{
+  margin-top:8%;
+
+}
+#h3pg{
+  margin-bottom:2%;
+}
